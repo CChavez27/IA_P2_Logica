@@ -1,8 +1,5 @@
-#Alma Paola Garcia Landeros  
-#21110038  
-#6E1  
-#Inteligencia Artificial  
-#Centro de Enseñanza Tecnica Industrial 
+#Salazar Chavez Cristian Uriel
+#21310215
 
 class MotorInferencia:
     def __init__(self, base_conocimiento):
