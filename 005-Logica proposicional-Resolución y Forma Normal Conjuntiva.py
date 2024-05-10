@@ -1,9 +1,5 @@
-#Alma Paola Garcia Landeros  
-#21110038  
-#6E1  
-#Inteligencia Artificial  
-#Centro de Enseñanza Tecnica Industrial 
-
+#Salazar Chavez Cristian Uriel
+#21310215
 from sympy import symbols, satisfiable, to_cnf
 
 # Definir símbolos
